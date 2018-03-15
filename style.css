@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+}
+
+#strong {
+	border: 1px solid;
+}
+
+#global {
+	height: 100%;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
